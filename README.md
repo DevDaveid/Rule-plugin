@@ -1,11 +1,11 @@
 # Rule-plugin
 CSGO plugin that displays rules and definitions in a menu
 
-##Installation
+## Installation
 
 Drop the file in your /csgo folder
 
-##Usage
+## Usage
 
 To customize your rules and definitions you simply change/add sections in the rules.cfg file
 
